@@ -101,7 +101,7 @@ KEYS_FILE = "keys.txt"
 DAILY_USAGE_FILE = "daily_usage.json"
 # 🔴 TOP PE ADD KARO (SITES_FILE ke neeche):
 RZ_SITES_FILE = 'rz_sites.txt'        # ✅ Razorpay sites file
-PHOTO_URL = "https://i.postimg.cc/NMfk3jpP/Nexus_G2.png"  # ← अपना असली Link
+PHOTO_URL = "https://kommodo.ai/i/zM7hsYeiCmN18bnpB5fmg"  # ← अपना असली Link
 # Initialize bot
 bot = TelegramClient('checker_bot', API_ID, API_HASH).start(bot_token=BOT_TOKEN)
 # RAZORPAY SINGLE SITE (koi sites1.txt nahi)
