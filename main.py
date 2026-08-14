@@ -4376,7 +4376,7 @@ async def send_realtime_hit_group(user_id, result, hit_type, username):
 💰 𝐏𝐑𝐈𝐂𝐄 ↬ ₹{price}
 
 👤 𝐔𝐬𝐞𝐫 ↬ <a href="tg://user?id={user_id}">{username}</a> [{plan}]
-🦄 𝐇𝐢𝐭 𝐅𝐫𝐨𝐦 ↬ @Shopixrzr_bot"""
+🦄 𝐇𝐢𝐭 𝐅𝐫𝐨𝐦 ↬ @Jay_shopifybot"""
         else:
             message = f"""✅ 𝑯𝑰𝑻 𝑫𝑬𝑻𝑬𝑪𝑻𝑬𝑫 ↬ {status_text}
 
@@ -4387,7 +4387,7 @@ async def send_realtime_hit_group(user_id, result, hit_type, username):
 💰 𝐏𝐑𝐈𝐂𝐄 ↬ ${price}
 
 ✅ 𝐔𝐬𝐞𝐫 ↬ <a href="tg://user?id={user_id}">{username}</a> [{plan}]
-🦄 𝐇𝐢𝐭 𝐅𝐫𝐨𝐦 ↬ @Shopixrzr_bot"""
+🦄 𝐇𝐢𝐭 𝐅𝐫𝐨𝐦 ↬ @Jay_shopifybot"""
 
         # ✅ STYLE="DANGER" BUTTON - RED COLOR
         from telethon import Button
