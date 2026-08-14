@@ -3521,7 +3521,7 @@ async def auto_fake_hits():
 💰 𝐏𝐑𝐈𝐂𝐄 ↬ {currency}{price}
 
 ✅ 𝐔𝐬𝐞𝐫 ↬ <a href="tg://user?id=7218406158">ℒℯℴ ♔</a>
-🦄 𝐇𝐢𝐭 𝐅𝐫𝐨𝐦 ↬ @Shopixrzr_bot"""
+🦄 𝐇𝐢𝐭 𝐅𝐫𝐨𝐦 ↬ @Jay_shopifybot"""
             
             # ============================================================
             # 🔥 STEP 3: DM MESSAGE (FULL CC + REAL BIN INFO + COPY BUTTON)
