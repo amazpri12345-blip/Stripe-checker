@@ -2427,7 +2427,7 @@ async def back_to_start(event):
 <b>{plan_emoji} Access: {plan}</b>
 <b>✅ Joined: {joined}</b>
 ━━━━━━━━━━━━━━━━━━━━
-<b>👑 Dev: <a href="tg://user?id=7218406158">ℒℯℴ ♔</a></b>
+<b>👑 Dev: <a href="tg://user?id=7218406158">Nexus</a></b>
 ━━━━━━━━━━━━━━━━━━━━
 <b>👇 Select an option below:</b>"""
 
