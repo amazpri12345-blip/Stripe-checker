@@ -1625,7 +1625,7 @@ async def single_razorpay_cc(event):
 
         if result['status'] == 'Charged':
             status_emoji = "✅"
-            status_text = "𝘾𝙃𝘼𝙍𝙂𝙀𝘿 💎"
+            status_text = "𝘾𝙃𝘼𝙍𝙂𝙀𝘿 🔥"
         elif result['status'] == 'Approved':
             status_emoji = "🔥"
             status_text = "𝘼𝙋𝙋𝙍𝙊𝙑𝙀𝘿 ✅"
@@ -1689,7 +1689,7 @@ async def razorpay_bulk_check(event):
             "<b>📌 If you have any Razorpay sites, please contact admin:</b>\n"
             "<b>👤 <a href='tg://user?id=7218406158'>@Aloee_op</a></b>\n\n"
             "<b>━━━━━━━━━━━━━━━━━━━━</b>\n"
-            "<b>🦄 Bot By: ℒℯℴ ♔</b>"
+            "<b>🦄 Bot By: Jay </b>"
         ), parse_mode='html')
         return
     
@@ -1984,7 +1984,7 @@ Use <code>/redeem KEY_HERE</code> for instant activation
 Contact <a href="tg://user?id=7218406158">@Nexus_G2</a> for keys
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
-🦄 <b>Powered By ℒℯℴ ♔</b>"""
+🦄 <b>Powered By JAY </b>"""
 
     await event.reply(premium_emoji(msg), parse_mode='html')
     
@@ -2146,7 +2146,7 @@ async def start(event):
 <b>{plan_emoji} Access: {plan}</b>
 <b>✅ Joined: {joined}</b>
 ━━━━━━━━━━━━━━━━━━━━
-<b>👑 Dev: <a href="tg://user?id=7218406158"> ℒℯℴ ♔</a></b>
+<b>👑 Dev: <a href="tg://user?id=7218406158"> JAY ♔</a></b>
 ━━━━━━━━━━━━━━━━━━━━
 <b>👇 Select an option below:</b>"""
 
@@ -2252,8 +2252,8 @@ async def support_menu(event):
 <b>💠 Plan: {plan}</b>
 ━━━━━━━━━━━━━━━━━━━━
 <b>💎 Premium Plans:</b>
-<b>📅 7 Days - $2</b>
-<b>📅 1 Month - $5</b>
+<b>📅 7 Days - 50₹</b>
+<b>📅 1 Month - 500₹</b>
 ━━━━━━━━━━━━━━━━━━━━
 <b>🔑 Redeem Key:</b>
 <code>/redeem KEY_HERE</code>
@@ -2266,8 +2266,8 @@ async def support_menu(event):
 
     support_buttons = [
         [
-            Button.url("𝘽𝙐𝙔 𝙋𝙇𝘼𝙉", f"https://t.me/+857KdiIZ3O1hYmJl"),
-            Button.url("𝘾𝙊𝙉𝙏𝘼𝘾𝙏 𝙊𝙒𝙉𝙀𝙍", f"https://t.me/+857KdiIZ3O1hYmJl"),
+            Button.url("𝘽𝙐𝙔 𝙋𝙇𝘼𝙉", f"@Nexus_G2"),
+            Button.url("𝘾𝙊𝙉𝙏𝘼𝘾𝙏 𝙊𝙒𝙉𝙀𝙍", f"@Nexus_G2"),
         ],
         [
             Button.inline("🔙 𝘽𝘼𝘾𝙆", b"back_to_start"),
